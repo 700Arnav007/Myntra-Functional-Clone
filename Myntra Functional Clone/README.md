@@ -14,7 +14,6 @@ In this project we have used the following technologies:
 - CSS
 - JavaScript
 
-Along with that, in order to store user data and products data we also used LocalStorage (aka browser storage).
 
 ## Libraries Used
 
